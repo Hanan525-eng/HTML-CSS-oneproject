@@ -1,2 +1,2 @@
 # HTML-CSS-oneproject
-HTML &amp; CSS first project 
+HTML and CSS first project 
